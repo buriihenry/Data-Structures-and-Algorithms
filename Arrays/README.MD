@@ -1,6 +1,6 @@
 # Array
     An array is a data structure that stores a collection of items, usually of the same data type, in a contiguous block of memory. Arrays allow you to organize multiple values under a single name and access them using an index or position.
-    <br>    
+     
 ## Key Characteristics of Arrays:
 1.	Fixed Size: Arrays are typically of a fixed size, meaning the number of elements in an array is determined when it is created.
 2.	Same Data Type: All elements in an array must be of the same data type (e.g., all integers, all floats, etc.).
